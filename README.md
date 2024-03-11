@@ -1,2 +1,2 @@
 # Calculator
-TOP calculator
+TOP calculator which can calculate simple operations
